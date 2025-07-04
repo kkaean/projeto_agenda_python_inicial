@@ -21,10 +21,10 @@ Os dados são armazenados localmente em um arquivo SQLite (`agenda.db`), garanti
 - Terminal ou prompt de comando
 
 ### 👨‍🎓 Créditos do Aluno
-Nome: Kawan da Costa Mariano
-Curso: Programador de Sistema
-Instituição: Senai
-Ano: 2025
+- Nome: Kawan da Costa Mariano
+- Curso: Programador de Sistema
+- Instituição: Senai
+- Ano: 04 de julho 2025
 
 
 
