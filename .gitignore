@@ -7,4 +7,4 @@ __pycache__/
 *.pyo 
 *.pyd 
 .venv/
-.modificao_data_cpf_endereco.py
+modificao_data_cpf_endereco.py
